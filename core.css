@@ -1,0 +1,30 @@
+*{ font-family: Arial, Helvetica, sans-serif }
+body
+{
+    margin: 0px;
+    min-height: 100vh;
+}
+.nav-a
+{
+    display: inline-block;
+}
+.nav-p
+{
+    margin: 0px;
+}
+
+#content
+{
+    
+}
+
+
+
+
+footer
+{
+    position: relative;
+    margin-top: auto;
+    margin-bottom: 0px;
+    min-height: 100px;
+}
