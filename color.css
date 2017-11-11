@@ -1,0 +1,39 @@
+nav
+{
+    background-color: rgb(255, 230, 0);
+    color: black;
+}
+
+.a-nostyle
+{
+    text-decoration: none;
+}
+
+
+/*[HOVER]*/
+.nav-a:hover
+{
+    background-color: rgb(30,30,30);
+}
+.nav-p:hover
+{
+    color:white;
+}
+
+
+
+.nav-fgc
+{
+    color: black;
+}
+
+.nav-p
+{
+    padding: 20px;
+    font-weight: bold;
+}
+
+footer
+{
+    background-color: rgb(30,30,30);
+}
