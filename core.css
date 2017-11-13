@@ -13,6 +13,28 @@ body
     margin: 0px;
 }
 
+.welcome-flags
+{
+    padding: 10px 50px;
+    height: 150px;
+    width: 150px;
+}
+
+.div-center
+{
+    width: 75vw;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-all
+{
+    padding-top: 25px;
+    margin: auto;
+    text-align: center;
+}
+
 #content
 {
     
