@@ -33,7 +33,15 @@ nav
     font-weight: bold;
 }
 
+.lightgray
+{
+    background-color: snow;
+}
+
+
+
+
 footer
 {
-    background-color: rgb(30,30,30);
+    background-color: rgb(35,35,35);
 }
