@@ -10,7 +10,7 @@ Sindre
 Lars-Henrik
 
 # Tekst/Innhold
-Aleksander, Amund
+Aleksander, Amund, Sindre
 
 # Phase 1
 

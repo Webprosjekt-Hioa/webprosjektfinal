@@ -21,6 +21,13 @@ nav {
     margin: 0px;
 }
 
+.nav-over-button
+{
+    border: none;
+    height: 50px;
+    min-width: 100px;
+}
+
 .welcome-flags
 {
     padding: 10px 50px;
