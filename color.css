@@ -1,7 +1,7 @@
 nav
 {
-    background-color: rgb(255, 230, 0);
-    color: black;
+    background-color: #0066cc;
+    color: white;
 }
 
 .a-nostyle
@@ -24,7 +24,7 @@ nav
 
 .nav-fgc
 {
-    color: black;
+    color: white;
 }
 
 .nav-p
@@ -35,7 +35,7 @@ nav
 
 .lightgray
 {
-    background-color: snow;
+    background-color: #ECECEC;
 }
 
 
