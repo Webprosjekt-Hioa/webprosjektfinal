@@ -4,6 +4,11 @@ body
     margin: 0px;
     min-height: 100vh;
 }
+
+nav {
+    height: 60px;
+}
+
 .nav-a
 {
     display: inline-block;
@@ -13,12 +18,47 @@ body
     margin: 0px;
 }
 
+.welcome-flags
+{
+    padding: 10px 50px;
+    height: 150px;
+    width: 150px;
+}
+
+.div-center
+{
+    width: 75vw;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-all
+{
+    padding-top: 25px;
+    margin: auto;
+    text-align: center;
+}
+
 #content
 {
-    
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (width : 800px)
+{
+    #co
 }
 
 
+
+.article
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 
 
 footer
