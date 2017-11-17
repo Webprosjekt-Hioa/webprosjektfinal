@@ -42,14 +42,24 @@ nav {
 
 #content
 {
+
+}
+
+.c-w
+{
     width: 75vw;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    padding-top: 25px;
+    padding-bottom: 25px; 
 }
 
 @media screen and (width : 800px)
 {
-    #co
+    
 }
 
 
