@@ -1,8 +1,11 @@
+*{ font-weight: bold; }
+
 nav
 {
     background-color: #FFFF00;
     color: black;
 }
+
 
 .a-nostyle
 {
@@ -24,10 +27,12 @@ nav
 { 
     background-color: #004080;
 }
+
 .nav-over-button
 {
-    background-color: #004080;
+    background-color: black;
     color: #FFFF00;
+    border: 2.5px solid white;
 }
 .nav-fgc
 {
