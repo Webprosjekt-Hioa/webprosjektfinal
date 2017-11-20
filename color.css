@@ -34,11 +34,15 @@ nav
 {
     background-color: #ECECEC;
 }
-
+.white
+{
+    background-color: white;
+}
 
 
 
 footer
 {
     background-color: rgb(35,35,35);
+    color: white;
 }
