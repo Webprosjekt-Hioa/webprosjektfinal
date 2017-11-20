@@ -16,8 +16,11 @@ nav {
 {
     display: inline-block;
 }
+
 .nav-p
 {
+    padding: 20px;
+    font-weight: bold;
     margin: 0px;
 }
 
