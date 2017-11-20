@@ -20,9 +20,15 @@ nav
     color:white;
 }
 
-.nav-over { background-color: rgb(35,35,35); }
-
-
+.nav-over 
+{ 
+    background-color: #004080;
+}
+.nav-over-button
+{
+    background-color: #004080;
+    color: #FFFF00;
+}
 .nav-fgc
 {
     color: black;
@@ -37,7 +43,7 @@ nav
     background-color: #004080;
 }
 
-#content p,h1 
+#content p,h1
 {
     color: #FFFF00;
 }
@@ -45,5 +51,10 @@ nav
 
 footer
 {
-    background-color: rgb(35,35,35);
+    background-color: #FFFF00;
+    color: black;
+}
+#content a
+{
+    color: black;
 }
