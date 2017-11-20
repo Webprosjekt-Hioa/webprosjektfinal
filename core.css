@@ -89,6 +89,11 @@ nav {
     display: flex;
 }
 
+.c-w-image
+{
+    width: 400px;
+}
+
 @media screen and (max-width : 650px)
 {
     .c-w
