@@ -4,11 +4,19 @@
         <!--<meta http-equiv="refresh" content="1">-->
         <title>Welcome</title>
         <link href="..\..\core.css" rel="stylesheet" type="text/css">
-        <link href="..\..\color.css" rel="stylesheet" type="text/css">
+        <link href="..\..\hightContrastColor.css" rel="stylesheet" type="text/css" id="color-highContrast">
+        <link href="..\..\color.css" rel="stylesheet" type="text/css" id="color-normal">
+        <script type="text/javascript" src="..\..\setStyle.js"></script>
+        <script>
+            function initCss()
+            {
+                document.getElementById("color-highContrast").disabled = true;
+            }
+        </script>
     </head>
-    <body>
+    <body onload="initCss();">
         <div class="nav-over">
-            <button class="nav-over-button" onclick="">Hight contrast</button>
+            <button class="nav-over-button" onclick="adaptPage();">Hight contrast</button>
         </div>
         <nav>
             <a class="nav-a a-nostyle" style="height: 60px;" href="#">
