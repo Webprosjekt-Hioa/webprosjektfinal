@@ -16,8 +16,11 @@ nav {
 {
     display: inline-block;
 }
+
 .nav-p
 {
+    padding: 20px;
+    font-weight: bold;
     margin: 0px;
 }
 
@@ -93,6 +96,11 @@ nav {
     padding-top: 25px;
     padding-bottom: 25px; 
     display: flex;
+}
+
+.c-w-image
+{
+    width: 400px;
 }
 
 @media screen and (max-width : 650px)
