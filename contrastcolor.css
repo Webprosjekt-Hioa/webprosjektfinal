@@ -1,0 +1,49 @@
+nav
+{
+    background-color: #FFFF00;
+    color: black;
+}
+
+.a-nostyle
+{
+    text-decoration: none;
+}
+
+
+/*[HOVER]*/
+.nav-a:hover
+{
+    background-color: rgb(30,30,30);
+}
+.nav-p:hover
+{
+    color:white;
+}
+
+.nav-over { background-color: rgb(35,35,35); }
+
+
+.nav-fgc
+{
+    color: black;
+}
+
+.lightgray
+{
+    background-color: #004080;
+}
+.white
+{
+    background-color: #004080;
+}
+
+#content p,h1 
+{
+    color: #FFFF00;
+}
+
+
+footer
+{
+    background-color: rgb(35,35,35);
+}
